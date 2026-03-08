@@ -1,5 +1,25 @@
 # Changelog
 
+## [1.14.0](https://github.com/mindmorass/az-pim-cli/compare/v1.13.0...v1.14.0) (2026-03-08)
+
+
+### Features
+
+* --wait/--timeout polling, --all for governance, shell completion docs ([910a95d](https://github.com/mindmorass/az-pim-cli/commit/910a95df93b57d9d6cd8df5231094c328b20735d))
+* add list active, deactivate, --json output, and token commands ([34f5138](https://github.com/mindmorass/az-pim-cli/commit/34f51383a4a1f43462910866423efb178a721513))
+* bulk activate --all, sorted output, README improvements ([65a8619](https://github.com/mindmorass/az-pim-cli/commit/65a86191b729f2fc3035ad7112b835c24c985578))
+* table output, ANSI color, HTTP retry, multiple --name targets ([24d7739](https://github.com/mindmorass/az-pim-cli/commit/24d77393cbd45d6f8fa2c76a9b19f9d51f4e1c4f))
+
+
+### Tests
+
+* add coverage for new features ([67b213c](https://github.com/mindmorass/az-pim-cli/commit/67b213c041ad3f0a21f0db10f7d87bb4e65ffcbe))
+
+
+### Continuous Integration
+
+* pin semgrep container and snyk action to specific versions ([93b5dea](https://github.com/mindmorass/az-pim-cli/commit/93b5dead7295fefd036909c7f8a18590be860f02))
+
 ## [1.13.0](https://github.com/mindmorass/az-pim-cli/compare/v1.12.0...v1.13.0) (2026-03-08)
 
 
